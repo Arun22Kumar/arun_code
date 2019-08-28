@@ -6,9 +6,9 @@ public class ADPInverse
 	public static void main(String[] args) 
 	{
 		/*
-		 * Scanner sc = new Scanner(System.in); //Taking noOfRows value from the user
-		 * System.out.println("How Many Rows You Want In Your Pyramid?"); int noOfRows =
-		 * sc.nextInt();
+		 Scanner sc = new Scanner(System.in); //Taking noOfRows value from the user
+		 System.out.println("How Many Rows You Want In Your Pyramid?"); 
+		 int noOfRows = sc.nextInt();
 		 */
 		//Initializing rowCount with noOfRows
 		int noOfRows =9;
